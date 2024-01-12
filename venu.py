@@ -1,4 +1,4 @@
 import streamlit as st
 st.header('puppy')
 st.write('puppy')
-st.image('https://www.google.com/imgres?imgurl=https%3A%2F%2Fdogtime.com%2Fwp-content%2Fuploads%2Fsites%2F12%2F2023%2F10%2FGettyImages-1037524792-e1696604393664.jpg%3Fw%3D1024&tbnid=YGcULQL24wKUvM&vet=12ahUKEwiHp6bZhdeDAxVDq2MGHeCkBT0QMygEegQIARBZ..i&imgrefurl=https%3A%2F%2Fdogtime.com%2Fdog-breeds%2Ftibetan-mastiff&docid=nxLHZrKD_OUXEM&w=1024&h=638&q=tebatian%20mastiff&ved=2ahUKEwiHp6bZhdeDAxVDq2MGHeCkBT0QMygEegQIARBZ',caption='puppy')
+st.image('https://th.bing.com/th/id/R.33a69c021b9e34a3c5d0ebb9bca61fa7?rik=4tznaqoe%2blOpvw&riu=http%3a%2f%2ffarm5.staticflickr.com%2f4112%2f5170590074_066e255655_o.jpg&ehk=O0UGl8xtb23IwppKhPr3hxxjacGWKBlO2iAPY1fwbY4%3d&risl=&pid=ImgRaw&r=0',caption='puppy')
